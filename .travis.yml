@@ -1,0 +1,10 @@
+dist: trusty
+sudo: false
+language: cpp
+compiler: gcc
+script: make
+addons:
+  apt:
+    packages:
+      - libsfml-dev
+      - libmysqlcppconn-dev

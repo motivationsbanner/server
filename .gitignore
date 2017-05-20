@@ -1,0 +1,10 @@
+.vscode
+bin/*
+obj/*
+doc/*
+logs/*
+!bin/.gitkeep
+!obj/.gitkeep
+!doc/.gitkeep
+!logs/.gitkeep
+
